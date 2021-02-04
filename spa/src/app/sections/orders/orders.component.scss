@@ -1,0 +1,8 @@
+.table-body{
+    color: seashell;
+}
+
+.table-hover thead tr:hover, .table-hover tbody tr:hover td {
+    background-color: grayscale($color: #807373);
+    // background-color:rgba(118, 119, 136, 0.3);
+}
